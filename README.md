@@ -3,7 +3,9 @@
 A gallery of some of my favorite fonts from
 [Fontsource](https://fontsource.org).
 
-![Screenshot](./screenshot.png)
+[VIEW GALLERY](https://travishorn.github.io/my-favorite-fonts/)
+
+[![Screenshot](./screenshot.png)](https://travishorn.github.io/my-favorite-fonts/)
 
 ## License
 

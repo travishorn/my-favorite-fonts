@@ -6,7 +6,7 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/my-favorite-fonts' : ''
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
 		}
 	},
 	preprocess: vitePreprocess()

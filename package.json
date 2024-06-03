@@ -14,17 +14,18 @@
 	},
 	"type": "module",
 	"author": "Travis Horn <travis@travishorn.com> (https://travishorn.com/)",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/travishorn/my-favorite-fonts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/travishorn/my-favorite-fonts/issues"
-  },
-  "homepage": "https://github.com/travishorn/my-favorite-fonts#readme",
-  "license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/travishorn/my-favorite-fonts.git"
+	},
+	"bugs": {
+		"url": "https://github.com/travishorn/my-favorite-fonts/issues"
+	},
+	"homepage": "https://github.com/travishorn/my-favorite-fonts#readme",
+	"license": "MIT",
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-static": "^3.0.1",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"@types/eslint": "^8.56.7",
